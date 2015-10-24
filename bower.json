@@ -1,0 +1,19 @@
+{
+  "name": "spn",
+  "version": "0.0.0",
+  "homepage": "https://github.com/MoMohamoud/spn-node",
+  "authors": [
+    "MoMohamoud <moeddie@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.7",
+    "bootstrap": "~3.3.5",
+    "AngularJS-Toaster": "toaster#~0.4.15"
+  }
+}
